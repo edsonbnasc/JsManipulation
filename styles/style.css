@@ -80,3 +80,8 @@ button[type="submit"]{
     color: white;
     
 }
+
+table,tr,th{
+    border-collapse: collapse;
+    border: 4px solid black;
+}
